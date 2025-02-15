@@ -1,6 +1,6 @@
 // Code Practice: Slime World
-// Name: 
-// Date: 
+// Name: Peter Dobbins
+// Date: 15/2/25
 
 let config = {
     type: Phaser.AUTO,
@@ -17,6 +17,6 @@ let config = {
     },
     zoom: 2,
     scene: [ Overworld ]
-}
+};
 
-const game = new Phaser.Game(config)
+const game = new Phaser.Game(config);
